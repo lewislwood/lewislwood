@@ -28,6 +28,21 @@ Other Repositories ---->
 
 ## [Really simple Postgresql server](https://github.com/lewislwood/postgresql-persistent-connect)
 
-This repository is a twist off another Postgresql containerized SqQL server. Of course you have the standard psql console, connection string ability to include in tyour applicatio. Along with this one I include a small sample backup file. Restore and Backup sql scripts. Some sample  test scripts. An NPM script to run those sample psql scripts I created and any one your create. This way you can create and test over and over.
+Start to finish. This is the perfect tool for that and a great learning for those not there yet. Uses Docker & PSQL.
+This repository is a twist off another Postgresql containerized SqQL server. Of course you have the standard psql console, connection string ability to include in tyour application. Along with this one I include a small sample backup file. Restore and Backup sql scripts. Some sample  test scripts. An NPM script to run those sample psql scripts I created and any  one you create. This way you can create and test over and over. It is containerized and created in the project folder. Thus easy to integrate with other docker applications using yml files.
 
-imagine create a series of scripts to create/upgrade you application database. You will want to test it over and over. Start to finish. This is the perfect tool for that and a great learning for those not there yet. Uses Docker & PSQL.
+## [WordPress in 5 minutes](https://github.com/lewislwood/wordpress-developer-docker)
+
+imagine create a series of scripts to create/upgrade you application database. You will want to do This is a simple Wordpress docker containerized generator. I even created a YouTube video that can be found at [Blind Heroes](http://youtube.com/@blindheroes.org) test it and you can find articles @ my [Blind Heroes Web Site](http://blindheroes.org)  I plan to phase out WordPress and move over to Nextjs
+
+## [Audio Catalog Generator](http://lewislwood.github.io/ac-gen)
+
+ This generator requires no html knowledge. Just drop you mp3 files and a new custom audio catalog is created for you. Simply copy the folders and place as a doc folder in you repository you want an audio catalog or simply place in a folder. The html generated from an express ejs server creates an Audio catalog player.
+
+ This player mimics the YouTube key mappings. This makes learning easier. Also updates the status, time, remaining, and more to the screen reader.
+
+ This Generator screams CLI and that would make it much more simplier and portable. So when I get around I will create another one. So stay tuned.
+
+--------
+
+Stay Tuned I (Lewis L. Wood) will bring you many more ideas in the future. So keep coding.
