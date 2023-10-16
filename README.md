@@ -8,6 +8,8 @@ I created this tutorial for blind developers and sighted alike. The goal is to s
 
 Hopefully sighted employers and developers will see how blind people can accomplish this task.  Keep in mind I designed, developed, and typed up this tutorial in 1 week. The grammer took up  3+ of those days. Programming is what I excel at.
 
+This is a tutorial on javascript techniques,VS Code IDE, and how a talking console aids in completion. The Drop Text Panels are a complicated mess of JavaScript, and managing all those conditons must be done in sync. The HTML elements Details & Summary tags do exactly the smae thing with no javascript. It is all done by the browser. Would be a really short tutorial if I did it that way.  Happy coding.
+
 --------
 
 * Most Popular ----->
