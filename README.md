@@ -2,13 +2,9 @@
 
 Recently Completed ----->
 
-## [Drop Text Tutorial](http://lewislwood.github.io/drop-text-tutorial)
+## [API Authentification 3 branch Tutorial](https://lewislwood.github.io/jwt-auth-role-express/)
 
-I created this tutorial for blind developers and sighted alike. The goal is to show blind developers especially, how they can develop front end applications as well.  The techniques used to accomplish this wonderful tasks.
-
-Hopefully sighted employers and developers will see how blind people can accomplish this task.  Keep in mind I designed, developed, and typed up this tutorial in 1 week. The grammer took up  3+ of those days. Programming is what I excel at.
-
-This is a tutorial on javascript techniques,VS Code IDE, and how a talking console aids in completion. The Drop Text Panels are a complicated mess of JavaScript, and managing all those conditons must be done in sync. The HTML elements Details & Summary tags do exactly the smae thing with no javascript. It is all done by the browser. Would be a really short tutorial if I did it that way.  Happy coding.
+This tutorial is a 3 branch/step tutorial in developing a robust API. A firm understanding of an Express API will be demonstrated and become quite evident in this 3 p part development proccess. How webtokens work and how security is implemented will be understood when you complete this proccess. How to handle authorization/roles for users as part of authentificaton. Error handling how to set a robust and quite customizable error handling to help you find and diagnose the difficulat to locate errors. How to implement a sound logging system, for what ever you want to monitor (requests, types of user request errors, and server errors). Also a robust testing javascript file I developed to hit my server with requests (get & post).
 
 --------
 
@@ -22,11 +18,21 @@ This GitHub Page implements my [Audio Catalog Generator](http://lewislwood.githu
 
    *Work in Process
 
-## [JWT Authentification  & Role Authorization](https://github.com/lewislwood/jwt-auth-role-express)
+## Web Page Template
 
-This is a three branch tutorial. I puposely place things in a manner people think and focus. Since at first blind programmers process one line at a time with their senses, vs sighted which see multiple lines and put them together rather quickly. Blind are capable, but when new concepts it may take a few extra moments. S Branch Auth is extremely simple and the controller logic is on the routes. vs seperated out. 2nd branch I implement authorization and introduc guest role as well as owner routes/rights. 3rd move to MVC model, error handling, loggin.
-Throughout the 3 branches I have a dedicated testing javascript that I encourage them to run. I will be recording and generating an Audio Catalog GitHub Page for this repository as well.
+This will be a master web page/github page I will use. I will also include a media presentation to explain to blind like me how they too can accomplish some decent output for front end presentation. Getting it in the ballpark.
+
+ Will have a 3 column, 2 comlumn, and 1 column. All will be responsive and have multi them colors and auto dark and light them selectors.
+
 Other Repositories ---->
+
+## [Drop Text Tutorial](http://lewislwood.github.io/drop-text-tutorial)
+
+I created this tutorial for blind developers and sighted alike. The goal is to show blind developers especially, how they can develop front end applications as well.  The techniques used to accomplish this wonderful tasks.
+
+Hopefully sighted employers and developers will see how blind people can accomplish this task.  Keep in mind I designed, developed, and typed up this tutorial in 1 week. The grammer took up  3+ of those days. Programming is what I excel at.
+
+This is a tutorial on javascript techniques,VS Code IDE, and how a talking console aids in completion. The Drop Text Panels are a complicated mess of JavaScript, and managing all those conditons must be done in sync. The HTML elements Details & Summary tags do exactly the smae thing with no javascript. It is all done by the browser. Would be a really short tutorial if I did it that way.  Happy coding.
 
 ## [Really simple Postgresql server](https://github.com/lewislwood/postgresql-persistent-connect)
 
